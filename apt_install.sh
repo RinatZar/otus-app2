@@ -5,6 +5,6 @@ sudo apt update
 sudo apt install prometheus -y
 echo "prometheus установлен"
 
-# Установка nano
-#sudo apt install nano -y
-#echo "nano установлен"
+# Установка Grafana
+#sudo apt install adduser libfontconfigi musl -y
+#echo "Grafana установлен"
