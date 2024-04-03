@@ -11,7 +11,7 @@
     ```bash
    bash network_static.sh
    ``` 
-4. Установить prometheus
+4. Установить prometheus, grafana
    ```bash
    bash apt_install.sh
    ```
