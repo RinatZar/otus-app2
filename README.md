@@ -15,7 +15,7 @@
    ```bash
    bash apt_install.sh
    ```
-5. Запустить скрипт настройки Nginx.
+5. Запустить скрипт настройки Grafana.
    ```bash
     bash nginx_script.sh
    ```
