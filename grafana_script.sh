@@ -1,9 +1,9 @@
 #!/bin/bash
 
 DIR='/etc/grafana/'
-DIR1='/home/otus-app1/grafana.ini'
-DIR3='/home/otus-app1/provisioning'
-DIR5='/home/otus-app1/prometheus.yml'
+DIR1='/home/otus-app2/grafana.ini'
+DIR3='/home/otus-app2/provisioning'
+DIR5='/home/otus-app2/prometheus.yml'
 DIR2='/etc/grafana/'
 DIR4='/etc/prometheus/'
 
