@@ -17,5 +17,5 @@
    ```
 5. Запустить скрипт настройки Grafana.
    ```bash
-    bash nginx_script.sh
+    bash grafana_script.sh
    ```
