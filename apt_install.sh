@@ -7,6 +7,7 @@ echo "prometheus установлен"
 
 # Установка Grafana
 dpkg -i /home/otus/grafana_10.2.2_amd64-224190-2cad86.deb
+apt -f install
 systemctl daemon-reload
 systemctl restart grafana-server
 if [ $? -eq 0 ]; then
